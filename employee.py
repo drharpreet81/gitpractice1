@@ -1,6 +1,6 @@
 print("Employee Details")
-print("Employee ID: E101")
+print("Employee ID: E102")
 print("Name: John Smith")
 print("Department: IT")
-print("Salary: 50000")
+print("Salary: 50001")
 
